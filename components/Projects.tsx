@@ -159,7 +159,7 @@ const Projects = () => {
                 Portfolio (old)
               </p>
               <p className="text-gray-500 text-[10px]">
-                Personal portfolio with React.js showcasing my projects, skills,
+                Personal portfolio with React showcasing my projects, skills,
                 and professional details.
               </p>
             </div>

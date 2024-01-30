@@ -142,7 +142,7 @@ const Projects = () => {
           </div>
         </Link>
         <Link
-          href=""
+          href="https://tim-koprivnik.netlify.app/"
           rel="noopener noreferrer"
           target="_blank"
           className="z-[1] max-w-[350px]"

@@ -25,7 +25,7 @@ const Navbar = () => {
           </div>
           <a
             href="/CV_Koprivnik_Tim.pdf"
-            rel="noopener noreferrer"
+            rel="noopener noreferer"
             target="_blank"
             aria-label="CV"
             className="z-[1] bg-transparent cursor-pointer hover:bg-purple-900 rounded-xl text-white p-2 sm:pt-2 sm:px-5"

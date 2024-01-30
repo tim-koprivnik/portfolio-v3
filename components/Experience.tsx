@@ -156,7 +156,7 @@ const Experience = () => {
         </div>
         <li className="text-gray-300 pt-5">
           Designed and developed compelling web advertisements for various
-          campaigns, optimizing for engagement and conversion.
+          campaigns, optimized for engagement and conversion.
         </li>
         <li className="text-gray-300 pt-5">
           Contributed to the enhancement of an internal CMS, implementing new

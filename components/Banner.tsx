@@ -9,11 +9,10 @@ const Banner = () => {
       <div className="flex flex-col justify-center text-center">
         <div className="justify-center flex">
           <Image
-            src="/me_no_bg.png"
+            src="/me_no_bg-2.png"
             height={300}
             width={300}
             alt="Tim Koprivnik"
-            className="rounded-full border-[0.1px] border-purple-500"
           />
         </div>
         <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1 hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text hover:bg-gradient-to-r from-purple-500 to-purple-900 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">

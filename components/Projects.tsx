@@ -11,12 +11,12 @@ const Projects = () => {
       <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-500 to-purple-900 text-1xl ">
         EXPLORE NOW
       </p>
-      <div className="container mx-auto 2xl max-w-[900px] pl-4 pr-4 grid grid-cols-2 gap-4 place-items-center">
+      <div className="container mx-auto 2xl max-w-[900px] mt-8 pl-4 pr-4 grid grid-cols-1 sm:grid-cols-2 gap-4 place-items-center">
         <Link
           href="https://tmdb-lake.vercel.app/"
           rel="noopener noreferrer"
           target="_blank"
-          className="z-[1] max-w-[350px]"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/tmdb.png" height={150} width={150} alt="TMDB" />
@@ -33,7 +33,7 @@ const Projects = () => {
           href="https://github.com/tim-koprivnik/trello-clone/"
           rel="noopener noreferrer"
           target="_blank"
-          className="z-[1] max-w-[350px]"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image
@@ -56,7 +56,7 @@ const Projects = () => {
           href="https://fast-react-pizza-p7jm3f142-thedude23.vercel.app/"
           rel="noopener noreferrer"
           target="_blank"
-          className="z-[1] max-w-[350px]"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image
@@ -79,7 +79,7 @@ const Projects = () => {
           href="https://github.com/tim-koprivnik/natours-app"
           rel="noopener noreferrer"
           target="_blank"
-          className="z-[1] max-w-[350px]"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/natours.png" height={150} width={150} alt="Natours" />
@@ -96,7 +96,7 @@ const Projects = () => {
           href="https://piggame-three.vercel.app/"
           rel="noopener noreferrer"
           target="_blank"
-          className="z-[1] max-w-[350px]"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/piggame.png" height={150} width={150} alt="PigGame" />
@@ -112,7 +112,7 @@ const Projects = () => {
           href="https://ktix-forkify.netlify.app/"
           rel="noopener noreferrer"
           target="_blank"
-          className="z-[1] max-w-[350px]"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/forkify.png" height={150} width={150} alt="Forkify" />
@@ -128,7 +128,7 @@ const Projects = () => {
           href="https://ktix-budgety.netlify.app/"
           rel="noopener noreferrer"
           target="_blank"
-          className="z-[1] max-w-[350px]"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/budgety.png" height={150} width={150} alt="Budgety" />
@@ -145,7 +145,7 @@ const Projects = () => {
           href="https://tim-koprivnik.netlify.app/"
           rel="noopener noreferrer"
           target="_blank"
-          className="z-[1] max-w-[350px]"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
         >
           <div className="flex-row flex mb-5">
             <Image

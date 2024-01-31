@@ -9,7 +9,7 @@ const Experience = () => {
       <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-500 to-purple-900 text-1xl ">
         EXPLORE NOW
       </p>
-      <div className="container mx-auto 2xl mb-8 max-w-[900px] pl-4 pr-4 sm:pl-0 sm:pr-0">
+      <div className="container mx-auto 2xl mb-8 max-w-[900px] pl-4 pr-4">
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a
@@ -52,7 +52,7 @@ const Experience = () => {
           </div>
         </div>
       </div>
-      <div className="container mx-auto 2xl mb-8 max-w-[900px] pl-4 pr-4 sm:pl-0 sm:pr-0">
+      <div className="container mx-auto 2xl mb-8 max-w-[900px] pl-4 pr-4">
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a
@@ -95,7 +95,7 @@ const Experience = () => {
           </div>
         </div>
       </div>
-      <div className="container mx-auto 2xl mb-8 max-w-[900px] pl-4 pr-4 sm:pl-0 sm:pr-0">
+      <div className="container mx-auto 2xl mb-8 max-w-[900px] pl-4 pr-4">
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a
@@ -137,7 +137,7 @@ const Experience = () => {
           </div>
         </div>
       </div>
-      <div className="container mx-auto 2xl mb-8 max-w-[900px] pl-4 pr-4 sm:pl-0 sm:pr-0">
+      <div className="container mx-auto 2xl mb-8 max-w-[900px] pl-4 pr-4">
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a

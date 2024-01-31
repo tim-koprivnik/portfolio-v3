@@ -11,7 +11,7 @@ const Projects = () => {
       <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-500 to-purple-900 text-1xl ">
         EXPLORE NOW
       </p>
-      <div className="container mx-auto 2xl max-w-[900px] mt-8 pl-4 pr-4 grid grid-cols-1 sm:grid-cols-2 gap-4 place-items-center">
+      <div className="container mx-auto 2xl max-w-[800px] mt-8 pl-4 pr-4 grid grid-cols-1 sm:grid-cols-2 gap-4 place-items-center">
         <Link
           href="https://tmdb-lake.vercel.app/"
           rel="noopener noreferrer"
@@ -166,7 +166,7 @@ const Projects = () => {
           </div>
         </Link>
       </div>
-      <p className="container mx-auto 2xl text-white text-center mt-4 max-w-[900px]">
+      <p className="container mx-auto 2xl text-white text-center mt-4 max-w-[800px]">
         For more, see{' '}
         <a
           className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer"

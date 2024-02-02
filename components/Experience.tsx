@@ -61,7 +61,7 @@ const Experience = () => {
               target="_blank"
               className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer"
             >
-              Interstellar{' '}
+              Interstellar Support{' '}
             </a>
             / Web Developer
           </p>

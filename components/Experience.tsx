@@ -148,7 +148,7 @@ const Experience = () => {
             >
               Adverta{' '}
             </a>
-            / WordPress Developer
+            / Web Developer & Designer
           </p>
           <p className="text-gray-300 text-xs italic sm:mt-1">
             Aug 2019 - Oct 2020

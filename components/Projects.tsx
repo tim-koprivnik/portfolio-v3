@@ -76,7 +76,7 @@ const Projects = () => {
           </div>
         </Link>
         <Link
-          href="https://github.com/tim-koprivnik/natours-app"
+          href="https://shielded-taiga-26909-ebf490f4cd24.herokuapp.com/"
           rel="noopener noreferrer"
           target="_blank"
           className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"

@@ -93,6 +93,48 @@ const Projects = () => {
           </div>
         </Link>
         <Link
+          href="https://monster-slayer-game-five.vercel.app/"
+          rel="noopener noreferrer"
+          target="_blank"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
+        >
+          <div className="flex-row flex mb-5 max-h-[100px]">
+            <Image
+              src="/monster-slayer-game.png"
+              height={150}
+              width={150}
+              alt="Monster Slayer"
+            />
+            <div className="p-3">
+              <p className="text-white font-semibold text-xl">Monster Slayer</p>
+              <p className="text-gray-500 text-[10px]">
+                Simple monster slayer game with Vue.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="https://monster-slayer-game-five.vercel.app/"
+          rel="noopener noreferrer"
+          target="_blank"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
+        >
+          <div className="flex-row flex mb-5 max-h-[100px]">
+            <Image
+              src="/to-do-app.png"
+              height={150}
+              width={150}
+              alt="Todo app"
+            />
+            <div className="p-3">
+              <p className="text-white font-semibold text-xl">Todo</p>
+              <p className="text-gray-500 text-[10px]">
+                Simple to-do app with Next.js.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
           href="https://piggame-three.vercel.app/"
           rel="noopener noreferrer"
           target="_blank"
@@ -101,7 +143,7 @@ const Projects = () => {
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/piggame.png" height={150} width={150} alt="PigGame" />
             <div className="p-3">
-              <p className="text-white font-semibold text-xl">PigGame</p>
+              <p className="text-white font-semibold text-xl">Pig Game</p>
               <p className="text-gray-500 text-[10px]">
                 Web app with JavaScript that allows users to play a dice game.
               </p>

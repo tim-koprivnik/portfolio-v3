@@ -114,7 +114,7 @@ const Projects = () => {
           </div>
         </Link>
         <Link
-          href="https://monster-slayer-game-five.vercel.app/"
+          href="https://github.com/tim-koprivnik/todo-app"
           rel="noopener noreferrer"
           target="_blank"
           className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"

@@ -23,7 +23,7 @@ const Experience = () => {
             / Frontend Developer
           </p>
           <p className="text-gray-300 italic text-xs sm:mt-1">
-            Aug 2021 - Apr 2024
+            Aug 2021 - Feb 2024
           </p>
         </div>
         <li className="text-gray-300 pt-5">

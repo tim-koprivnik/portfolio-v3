@@ -24,7 +24,7 @@ const Banner = () => {
           <span className="text-purple-900"> Casual Gamer.</span> Tech
           Enthusiast.
           <span className="text-purple-900"> Psychology Aficionado.</span> Vocal
-          Cultural Critic.
+          Critic of Work-obsessed Culture.
           <span className="text-purple-900"> Fellow Human.</span>
         </p>
         <div className="text-md flex justify-center">

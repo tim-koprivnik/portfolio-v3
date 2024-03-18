@@ -30,6 +30,30 @@ const Projects = () => {
           </div>
         </Link>
         <Link
+          href="https://calculation-game-ten.vercel.app/"
+          rel="noopener noreferrer"
+          target="_blank"
+          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
+        >
+          <div className="flex-row flex mb-5 max-h-[100px]">
+            <Image
+              src="/calculation-game.png"
+              height={150}
+              width={150}
+              alt="Calculation game"
+            />
+            <div className="p-3">
+              <p className="text-white font-semibold text-xl">
+                Calculation Game
+              </p>
+              <p className="text-gray-500 text-[10px]">
+                An interactive web app with React designed to sharpen your
+                arithmetic skills in a fun and engaging way.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
           href="https://github.com/tim-koprivnik/trello-clone/"
           rel="noopener noreferrer"
           target="_blank"
@@ -114,7 +138,7 @@ const Projects = () => {
           </div>
         </Link>
         <Link
-          href="https://github.com/tim-koprivnik/todo-app"
+          href="https://todo-app-taupe-mu-38.vercel.app/"
           rel="noopener noreferrer"
           target="_blank"
           className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"

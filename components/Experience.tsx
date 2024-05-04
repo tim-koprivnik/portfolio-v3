@@ -13,6 +13,35 @@ const Experience = () => {
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a
+              href="https://www.visionect.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+              className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer text-xt"
+            >
+              Visionect{' '}
+            </a>
+            / Frontend Engineer
+          </p>
+          <p className="text-gray-300 italic text-xs sm:mt-1">
+            Apr 2024 - Present
+          </p>
+        </div>
+        <div className="flex flex-wrap">
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            React
+          </div>
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Typescript
+          </div>
+          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Sass
+          </div>
+        </div>
+      </div>
+      <div className="container mx-auto 2xl mb-8 max-w-[800px] pl-4 pr-4">
+        <div className="flex flex-col justify-between pt-5">
+          <p className="text-gray-300">
+            <a
               href="https://www.agiledrop.com/"
               rel="noopener noreferrer"
               target="_blank"

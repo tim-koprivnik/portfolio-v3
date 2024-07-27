@@ -13,11 +13,11 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a seasoned (Frontend) Web Developer, I bring a unique blend of
-          technical expertise and philosophical insight to my work. My approach
-          is grounded in a commitment to simplicity, efficiency, and
-          mindfulness, influenced by my studies in philosophy and my dedication
-          to living an intentional life.
+          As a seasoned Frontend Developer, I bring a unique blend of technical
+          expertise and philosophical insight to my work. My approach is
+          grounded in a commitment to simplicity, efficiency, and mindfulness,
+          influenced by my studies in philosophy and my dedication to living an
+          intentional life.
           <br />
           <br />
           I am deeply passionate about continuous learning and personal growth,

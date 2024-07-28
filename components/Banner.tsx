@@ -15,17 +15,17 @@ const Banner = () => {
             alt="Tim Koprivnik"
           />
         </div>
-        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1 hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text hover:bg-gradient-to-r from-purple-500 to-purple-900 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
+        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1 hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text hover:bg-gradient-to-r from-purple-500 to-purple-700 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
           Tim Koprivnik
         </div>
         <p className="text-md text-purple-500 my-5 max-w-[600px]">
           Fronted Developer.
-          <span className="text-purple-900"> Philosopher.</span> Fitness Buff.
-          <span className="text-purple-900"> Casual Gamer.</span> Tech
+          <span className="text-purple-700"> Philosopher.</span> Fitness Buff.
+          <span className="text-purple-700"> Casual Gamer.</span> Tech
           Enthusiast.
-          <span className="text-purple-900"> Psychology Aficionado.</span> Vocal
+          <span className="text-purple-700"> Psychology Aficionado.</span> Vocal
           Critic of Overwork Culture.
-          <span className="text-purple-900">
+          <span className="text-purple-700">
             {' '}
             Above all else, <span className="text-white">Fellow Human.</span>
           </span>

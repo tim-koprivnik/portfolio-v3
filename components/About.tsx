@@ -9,7 +9,7 @@ const About = () => {
     >
       <div className="flex flex-col justify-around flex-wrap items-center max-w-[850px]">
         <h1 className="text-white font-semibold text-6xl">ABOUT ME</h1>
-        <p className="tracking-[0.5em] text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-500 to-purple-900 text-1xl">
+        <p className="tracking-[0.5em] text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-500 to-purple-700 text-1xl">
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">

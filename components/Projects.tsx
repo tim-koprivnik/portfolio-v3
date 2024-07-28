@@ -8,7 +8,7 @@ const Projects = () => {
       <h1 className="text-white font-semibold text-center text-6xl pt-[35px]">
         PROJECTS
       </h1>
-      <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-500 to-purple-900 text-1xl ">
+      <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-500 to-purple-700 text-1xl ">
         EXPLORE NOW
       </p>
       <div className="container mx-auto 2xl max-w-[800px] mt-8 pl-4 pr-4 grid grid-cols-1 sm:grid-cols-2 gap-4 place-items-center">

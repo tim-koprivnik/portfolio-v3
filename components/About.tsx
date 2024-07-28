@@ -13,33 +13,24 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a seasoned Frontend Developer, I bring a unique blend of technical
-          expertise and philosophical insight to my work. My approach is
-          grounded in a commitment to simplicity, efficiency, and mindfulness,
-          influenced by my studies in philosophy and my dedication to living an
-          intentional life.
+          Frontend Developer, blending technical expertise with philosophical
+          insight.
           <br />
           <br />
-          I am deeply passionate about continuous learning and personal growth,
-          constantly seeking to enhance my technical skills and broaden my
-          understanding of the digital landscape.
+          Committed to simplicity, efficiency, and continuous learning in all
+          aspects of my life. I don't give a f**k about most things in life, but
+          what I do give a strong f**k about are truth, honesty, respect,
+          fairness, freedom, and people I care the most about. My favourite
+          quote is from Socrates: "The unexamined life is not worth living." My
+          favourite music is "This Bitter Earth" from Dinah Washington. My
+          favourite movie is Interstellar, and second-favourite is Pay it
+          Forward. My favourite book is "The Subtle Art of Not Giving a F*ck" by
+          Mark Manson. I love sports, especially weight-lifting and tennis. I'm
+          a pretty good CS player. I like being quiet. Once in my life, I want
+          to save a dog from a shelter. What else... Oh ... I also strongly
+          believe that we work too much and that, as a species, we need to find
+          some higher purpose than just money.
           <br />
-          <br />
-          My interests extend beyond the screen, encompassing a love for
-          literature, music, and engaging with diverse ideas through podcasts
-          and documentaries. I am an advocate for creating a more empathetic and
-          fair society, believing strongly in the principles of truth, kindness,
-          and mutual respect. In my professional interactions, I strive to
-          embody these values, fostering collaborative and positive
-          relationships with colleagues and clients alike.
-          <br />
-          <br />
-          Driven by the principle of reciprocity, I believe in giving back what
-          I receive, approaching each project and team interaction with
-          fairness, empathy, and a willingness to understand and relate to
-          diverse perspectives. This mindset not only enriches my personal life
-          but also enhances my ability to connect with and contribute to diverse
-          teams in the dynamic field of web development.
         </p>
       </div>
     </section>

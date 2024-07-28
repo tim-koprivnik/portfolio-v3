@@ -25,7 +25,10 @@ const Banner = () => {
           Enthusiast.
           <span className="text-purple-900"> Psychology Aficionado.</span> Vocal
           Critic of Overwork Culture.
-          <span className="text-purple-900"> Fellow Human.</span>
+          <span className="text-purple-900">
+            {' '}
+            Above all else, <span className="text-white">Fellow Human</span>.
+          </span>
         </p>
         <div className="text-md flex justify-center">
           <button

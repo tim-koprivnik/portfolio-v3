@@ -26,6 +26,18 @@ const Experience = () => {
             Apr 2024 - Present
           </p>
         </div>
+        <li className="text-gray-300 pt-5">
+          Developing and maintaining web and mobile app, called{' '}
+          <a
+            href="https://getjoan.com/"
+            rel="noopener noreferrer"
+            target="_blank"
+            className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer text-xt"
+          >
+            Joan
+          </a>
+          , that companies use for better workplace management.
+        </li>
         <div className="flex flex-wrap">
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             React
@@ -34,7 +46,7 @@ const Experience = () => {
             Typescript
           </div>
           <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            Sass
+            CSS/Sass
           </div>
         </div>
       </div>
@@ -56,17 +68,12 @@ const Experience = () => {
           </p>
         </div>
         <li className="text-gray-300 pt-5">
-          Contributed significantly to the development and maintenance of
-          responsive and dynamic websites and web applications, with a strong
-          focus on leveraging React and Next.js for optimal performance and user
-          experience.
-        </li>
-        <li className="text-gray-300 pt-5">
-          Collaborated with a team of developers, designers, and project
-          managers to deliver high-quality web solutions for clients across
-          diverse industries.
+          Designed, developed, and maintained various websites and web apps.
         </li>
         <div className="flex flex-wrap">
+          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            PHP/Drupal
+          </div>
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             React/Next.js
           </div>
@@ -77,7 +84,7 @@ const Experience = () => {
             JavaScript
           </div>
           <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            Drupal
+            CSS/Sass
           </div>
         </div>
       </div>
@@ -99,14 +106,11 @@ const Experience = () => {
           </p>
         </div>
         <li className="text-gray-300 pt-5">
-          Led the design, development, and maintenance of websites and
-          e-commerce stores, catering to diverse client needs across various
-          sectors. Actively involved in the entire development cycle, from
-          concept to deployment, ensuring adherence to best practices and client
-          specifications.
+          Designed, developed, and maintained various websites and e-commerce
+          stores.
         </li>
         <li className="text-gray-300 pt-5">
-          Provided comprehensive technical support, resolving issues to enhance
+          Provided technical support to clients, resolving issues to enhance
           website functionality and user experience.
         </li>
         <div className="flex flex-wrap">
@@ -114,10 +118,13 @@ const Experience = () => {
             PHP/WordPress
           </div>
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Javascript
+          </div>
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             MySQL
           </div>
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            CSS/Sass
+            CSS
           </div>
           <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Figma
@@ -142,27 +149,27 @@ const Experience = () => {
           </p>
         </div>
         <li className="text-gray-300 pt-5">
-          Specialized in creating and managing websites for primary schools,
-          focusing on user-friendly and educational interfaces.
+          Developed and maintained various websites for primary schools in
+          Austria.
         </li>
         <li className="text-gray-300 pt-5">
-          Developed a bespoke WordPress plugin for seamless integration with
-          internal applications.- Specialized in creating and managing websites
-          for primary schools, focusing on user-friendly and educational
-          interfaces.
+          Developed WordPress plugin for seamless integration with internal app.
         </li>
         <div className="flex flex-wrap">
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP/WordPress
           </div>
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            MySQL
-          </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            CSS/Sass
+            Javascript
           </div>
           <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Frontity/React
+          </div>
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            MySQL
+          </div>
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            CSS
           </div>
         </div>
       </div>
@@ -177,29 +184,31 @@ const Experience = () => {
             >
               Adverta{' '}
             </a>
-            / Web Developer & Designer
+            / Web Developer
           </p>
           <p className="text-gray-300 text-xs italic sm:mt-1">
             Aug 2019 - Oct 2020
           </p>
         </div>
         <li className="text-gray-300 pt-5">
-          Designed and developed compelling web advertisements for various
-          campaigns, optimized for engagement and conversion.
+          Designed and developed web ads for various campaigns, optimized for
+          engagement and conversion.
         </li>
         <li className="text-gray-300 pt-5">
-          Contributed to the enhancement of an internal CMS, implementing new
-          features to streamline content management.
+          Contributed to the enhancement and maintenance of internal CMS.
         </li>
         <div className="flex flex-wrap">
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Javascript
+          </div>
+          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            PHP
+          </div>
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             HTML
           </div>
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS
-          </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            jQuery
           </div>
           <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Adobe Photoshop

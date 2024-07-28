@@ -27,7 +27,7 @@ const Banner = () => {
           Critic of Overwork Culture.
           <span className="text-purple-900">
             {' '}
-            Above all else, <span className="text-white">Fellow Human</span>.
+            Above all else, <span className="text-white">Fellow Human.</span>
           </span>
         </p>
         <div className="text-md flex justify-center">

@@ -29,7 +29,7 @@ const About = () => {
           underrated. One time in my life, I want to save a dog from a shelter.
           What else... Oh ... I also strongly believe that we work too much and
           that, as a species, it&apos;s about time we find some higher purpose
-          than just having money and more shit we don&apos;t even need.
+          than just having more money and more shit we don&apos;t even need.
           <br />
         </p>
       </div>

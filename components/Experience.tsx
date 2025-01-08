@@ -39,13 +39,13 @@ const Experience = () => {
           , that companies use for better workplace management.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             React
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Typescript
           </div>
-          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS/Sass
           </div>
         </div>
@@ -71,19 +71,19 @@ const Experience = () => {
           Designed, developed, and maintained various websites and web apps.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP/Drupal
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             React/Next.js
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Typescript
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             JavaScript
           </div>
-          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS/Sass
           </div>
         </div>
@@ -110,23 +110,22 @@ const Experience = () => {
           stores.
         </li>
         <li className="text-gray-300 pt-5">
-          Provided technical support to clients, resolving issues to enhance
-          website functionality and user experience.
+          Provided technical support to clients.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP/WordPress
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Javascript
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             MySQL
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS
           </div>
-          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Figma
           </div>
         </div>
@@ -156,19 +155,19 @@ const Experience = () => {
           Developed WordPress plugin for seamless integration with internal app.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP/WordPress
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Javascript
           </div>
-          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Frontity/React
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             MySQL
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS
           </div>
         </div>
@@ -198,19 +197,19 @@ const Experience = () => {
           Contributed to the enhancement and maintenance of internal CMS.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Javascript
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             HTML
           </div>
-          <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS
           </div>
-          <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Adobe Photoshop
           </div>
         </div>

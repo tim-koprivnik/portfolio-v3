@@ -19,15 +19,15 @@ const Banner = () => {
           Tim Koprivnik
         </div>
         <p className="text-md text-purple-500 my-5 max-w-[600px]">
-          Fronted Developer.
+          Fronted Engineer.
           <span className="text-purple-700"> Philosopher.</span> Fitness Buff.
           <span className="text-purple-700"> Casual Gamer.</span> Tech
           Enthusiast.
           <span className="text-purple-700"> Psychology Aficionado.</span> Vocal
-          Critic of Overwork Culture.
+          Critic of Materialistic Culture.
           <span className="text-purple-700">
             {' '}
-            Above all else, <span className="text-white">Fellow Human.</span>
+            <span className="text-white">Fellow Human.</span>
           </span>
         </p>
         <div className="text-md flex justify-center">

@@ -13,23 +13,24 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          Frontend Developer, blending technical expertise with philosophical
-          insight.
+          Frontend Engineer, blending love for technology with a philosophical
+          mindset.
           <br />
           <br />
           Committed to simplicity, efficiency, stoicism and continuous learning
           in all aspects of my life. As Mark Manson &apos;preaches&apos;, I
-          don&apos;t give a f**k about most things in life, but what I do give a
-          strong f**k about are values, such as truth, honesty, respect,
-          fairness and freedom, and people I care about the most. As Socrates, I
-          strongly believe that &apos;the unexamined life is not worth
-          living.&apos; I love reading books, watching movies, weightlifting,
-          and playing tennis. I&apos;m pretty good at shooter video games. As an
-          introvert, I believe people talk too much and that quietness is
-          underrated. One time in my life, I want to save a dog from a shelter.
-          What else... Oh ... I also strongly believe that we work too much and
-          that, as a species, it&apos;s about time we find some higher purpose
-          than just having more money and more shit we don&apos;t even need.
+          don&apos;t give a f**k about most things in life, but I do give a
+          strong f**k about values -- such as truth, honesty, integrity,
+          respect, fairness, and freedom --, and people I care about the most.
+          As Socrates, I strongly believe that &apos;the unexamined life is not
+          worth living.&apos; I love watching psychological (docu)series,
+          listening to podcasts, reading books, gaming, weightlifting, and
+          playing sports. As an introvert, I believe people talk too much and
+          that quietness is underrated. Once in my life, I want to save a dog
+          from a shelter. What else... Yes... I also strongly believe that we
+          work too much and that, as a species, it&apos;s about time we find
+          some higher purpose than just having more money and material shit we
+          don&apos;t even need.
           <br />
         </p>
       </div>

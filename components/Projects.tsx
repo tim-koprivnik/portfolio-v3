@@ -207,36 +207,12 @@ const Projects = () => {
             </div>
           </div>
         </Link>
-        <Link
-          href="https://tim-koprivnik.netlify.app/"
-          rel="noopener noreferrer"
-          target="_blank"
-          className="z-[1] w-full max-w-[550px] sm:max-w-[350px]"
-        >
-          <div className="flex-row flex mb-5">
-            <Image
-              src="/portfolio-old.png"
-              height={150}
-              width={150}
-              alt="Old Portfolio"
-            />
-            <div className="p-3">
-              <p className="text-white font-semibold text-xl">
-                Portfolio (old)
-              </p>
-              <p className="text-gray-500 text-[10px]">
-                Personal portfolio with React showcasing my projects, skills,
-                and professional details.
-              </p>
-            </div>
-          </div>
-        </Link>
       </div>
       <p className="container mx-auto 2xl text-white text-center mt-4 max-w-[800px]">
         For more, see{' '}
         <a
           className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer"
-          href="https://github.com/tim-koprivnik"
+          href="https://github.com/tim-koprivnik?tab=repositories"
           rel="noopener noreferrer"
           target="_blank"
         >

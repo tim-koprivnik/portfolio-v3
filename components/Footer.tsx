@@ -27,7 +27,7 @@ const Footer = () => {
           );
         })}
       </div>
-      <p className="text-purple-500 text-center text-sm">
+      <p className="text-[#c4a0cb] text-center text-sm">
         Created with Next.js, Typescript, and TailwindCSS
       </p>
     </div>

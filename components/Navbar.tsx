@@ -19,7 +19,7 @@ const Navbar = () => {
         <div className="flex flex-row gap-5 mr-10">
           <div
             onClick={() => window.open('mailto:t.koprivnik@gmail.com')}
-            className="z-[1] bg-transparent cursor-pointer hover:bg-purple-700 rounded-xl text-white p-2 sm:pt-2 sm:px-5"
+            className="z-[1] border-[0.1px] border-white bg-transparent cursor-pointer hover:bg-[#6d0f7d] text-white p-2 sm:pt-2 sm:px-5"
           >
             Contact
           </div>
@@ -28,7 +28,7 @@ const Navbar = () => {
             rel="noopener noreferer"
             target="_blank"
             aria-label="CV"
-            className="z-[1] bg-transparent cursor-pointer hover:bg-purple-700 rounded-xl text-white p-2 sm:pt-2 sm:px-5"
+            className="z-[1] border-[0.1px] border-white bg-transparent cursor-pointer hover:bg-[#6d0f7d] text-white p-2 sm:pt-2 sm:px-5"
           >
             CV
           </a>

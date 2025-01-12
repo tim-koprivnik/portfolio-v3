@@ -6,7 +6,7 @@ const Experience = () => {
       <h1 className="text-white font-semibold text-center text-6xl pt-[35px]">
         EXPERIENCE
       </h1>
-      <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-purple-500 to-purple-700 text-1xl ">
+      <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-[#c4a0cb] to-[#6d0f7d] text-1xl ">
         EXPLORE NOW
       </p>
       <div className="container mx-auto 2xl mb-8 max-w-[800px] pl-4 pr-4">
@@ -16,7 +16,7 @@ const Experience = () => {
               href="https://www.visionect.com/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer text-xt"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xt"
             >
               Visionect{' '}
             </a>
@@ -32,20 +32,20 @@ const Experience = () => {
             href="https://getjoan.com/"
             rel="noopener noreferrer"
             target="_blank"
-            className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer text-xt"
+            className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xt"
           >
             Joan
           </a>
           , that companies use for better workplace management.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             React
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Typescript
           </div>
-          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS/Sass
           </div>
         </div>
@@ -57,7 +57,7 @@ const Experience = () => {
               href="https://www.agiledrop.com/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer text-xt"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xt"
             >
               Agiledrop{' '}
             </a>
@@ -71,19 +71,19 @@ const Experience = () => {
           Designed, developed, and maintained various websites and web apps.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP/Drupal
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             React/Next.js
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Typescript
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             JavaScript
           </div>
-          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS/Sass
           </div>
         </div>
@@ -95,7 +95,7 @@ const Experience = () => {
               href="https://interstellarsupport.com/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer"
             >
               Interstellar Support{' '}
             </a>
@@ -113,19 +113,19 @@ const Experience = () => {
           Provided technical support to clients.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP/WordPress
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Javascript
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             MySQL
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS
           </div>
-          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Figma
           </div>
         </div>
@@ -137,7 +137,7 @@ const Experience = () => {
               href="https://about.citiesapps.com/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer"
             >
               citiesapps{' '}
             </a>
@@ -155,19 +155,19 @@ const Experience = () => {
           Developed WordPress plugin for seamless integration with internal app.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP/WordPress
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Javascript
           </div>
-          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Frontity/React
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             MySQL
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS
           </div>
         </div>
@@ -179,7 +179,7 @@ const Experience = () => {
               href="https://www.adverta.si/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-purple-500 hover:text-purple-700 cursor-pointer"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer"
             >
               Adverta{' '}
             </a>
@@ -197,19 +197,19 @@ const Experience = () => {
           Contributed to the enhancement and maintenance of internal CMS.
         </li>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Javascript
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             HTML
           </div>
-          <div className="bg-transparent mt-5 mr-2 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS
           </div>
-          <div className="bg-transparent mt-5 rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             Adobe Photoshop
           </div>
         </div>

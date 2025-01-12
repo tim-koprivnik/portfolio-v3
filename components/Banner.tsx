@@ -9,31 +9,31 @@ const Banner = () => {
       <div className="flex flex-col justify-center text-center">
         <div className="justify-center flex">
           <Image
-            src="/me_no_bg-2.png"
+            src="/me-2024-no-bg.png"
             height={300}
             width={300}
             alt="Tim Koprivnik"
           />
         </div>
-        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1 hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text hover:bg-gradient-to-r from-purple-500 to-purple-700 z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
+        <div className="flex flex-col gap-6 mt-6 cursor-pointer hover:-translate-y-1 hover:scale-110 transition ease-in-out hover:text-transparent bg-clip-text hover:bg-gradient-to-r from-[#c4a0cb] to-[#6d0f7d] z-[1] tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
           Tim Koprivnik
         </div>
-        <p className="text-md text-purple-500 my-5 max-w-[600px]">
+        <p className="text-md text-[#c4a0cb] my-5 max-w-[600px]">
           Fronted Engineer.
-          <span className="text-purple-700"> Philosopher.</span> Fitness Buff.
-          <span className="text-purple-700"> Casual Gamer.</span> Tech
+          <span className="text-[#c4a0cb]"> Philosopher.</span> Fitness Buff.
+          <span className="text-[#c4a0cb]"> Casual Gamer.</span> Tech
           Enthusiast.
-          <span className="text-purple-700"> Psychology Aficionado.</span> Vocal
+          <span className="text-[#c4a0cb]"> Psychology Aficionado.</span> Vocal
           Critic of Materialistic Culture.
-          <span className="text-purple-700">
+          <span className="text-[#c4a0cb]">
             {' '}
-            <span className="text-white">Fellow Human.</span>
+            <span className="text-[#c4a0cb]">Fellow Human.</span>
           </span>
         </p>
         <div className="text-md flex justify-center">
           <button
             onClick={() => window.open('mailto:t.koprivni@gmail.com')}
-            className="z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
+            className="z-[1] border-[0.1px] border-white bg-transparent cursor-pointer hover:bg-[#6d0f7d] text-white p-2 sm:pt-2 sm:px-5"
           >
             Contact Me
           </button>

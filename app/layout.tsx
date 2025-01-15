@@ -4,12 +4,13 @@ import './globals.css';
 import Navbar from '@/components/Navbar';
 import Background from '@/components/Background';
 
-const inter = Inter({ subsets: ['latin'] });
-const inconsolata = Inconsolata({ subsets: ['latin'] });
+const interFont = Inter({ subsets: ['latin'] });
+const inconsolataFont = Inconsolata({ subsets: ['latin'] });
+
 export const metadata: Metadata = {
   title: 'TK',
   description: 'Portfolio By Tim Koprivnik',
-  keywords: ['Developer', 'Portfolio', 'Tim Koprivnik'],
+  keywords: ['FE Engineer', 'Portfolio', 'Tim Koprivnik'],
 };
 
 export default function RootLayout({
@@ -20,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inconsolata.className} bg-[#111] overflow-y-scroll overflow-x-hidden`}
+        className={`${inconsolataFont.className} bg-[#111] overflow-y-scroll overflow-x-hidden`}
       >
         <Background />
         <Navbar />

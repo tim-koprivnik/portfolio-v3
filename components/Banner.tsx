@@ -19,16 +19,9 @@ const Banner = () => {
           Tim Koprivnik
         </div>
         <p className="text-md text-[#c4a0cb] my-5 max-w-[600px]">
-          Fronted Engineer.
-          <span className="text-[#c4a0cb]"> Philosopher.</span> Fitness Buff.
-          <span className="text-[#c4a0cb]"> Casual Gamer.</span> Tech
-          Enthusiast.
-          <span className="text-[#c4a0cb]"> Psychology Aficionado.</span> Vocal
-          Critic of Materialistic Culture.
-          <span className="text-[#c4a0cb]">
-            {' '}
-            <span className="text-[#c4a0cb]">Fellow Human.</span>
-          </span>
+          Front-End Engineer. Stoic Thinker. Gym Devotee. Casual Gamer. Tech &
+          Psychology Enthusiast. Advocate for Simplicity & Personal Growth. Dog
+          Lover.
         </p>
         <div className="text-md flex justify-center">
           <button

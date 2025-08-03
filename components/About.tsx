@@ -17,20 +17,16 @@ const About = () => {
           mindset.
           <br />
           <br />
-          Committed to simplicity, efficiency, stoicism and continuous learning
-          in all aspects of my life. As Mark Manson &apos;preaches&apos;, I
-          don&apos;t give a f**k about most things in life, but I do give a
-          strong f**k about values -- such as truth, honesty, integrity,
-          respect, fairness, and freedom --, and people I care about the most.
-          As Socrates, I strongly believe that &apos;the unexamined life is not
-          worth living.&apos; I love watching psychological (docu)series,
-          listening to podcasts, reading books, gaming, weightlifting, and
-          playing sports. As an introvert, I believe people talk too much and
-          that quietness is underrated. Once in my life, I want to save a dog
-          from a shelter. What else... Yes... I also strongly believe that we
-          work too much and that, as a species, it&apos;s about time we find
-          some higher purpose than just having more money and material shit we
-          don&apos;t even need.
+          I’m committed to simplicity, efficiency, stoicism, and lifelong
+          learning in every aspect of my life. Like Mark Manson, I ignore 99% of
+          life’s noise, zeroing in on what matters most: personal growth.
+          Echoing Socrates, I believe an unexamined life isn’t worth living. As
+          an introvert, I cherish quiet reflection and think most people talk
+          too much. I love watching docuseries, listening to podcasts, reading
+          books, gaming, going to the gym, and playing sports. One day, I’ll
+          rescue a dog from a shelter. I also believe humanity works too hard
+          for money and material things we don’t need—it’s time we chase a
+          higher purpose.
           <br />
         </p>
       </div>

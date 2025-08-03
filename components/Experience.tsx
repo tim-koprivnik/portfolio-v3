@@ -36,7 +36,7 @@ const Experience = () => {
           >
             Joan
           </a>
-          , that companies use for better workplace management.
+          , that empowers companies to optimize workplace management.
         </li>
         <div className="flex flex-wrap">
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">

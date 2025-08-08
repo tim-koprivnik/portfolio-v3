@@ -6,17 +6,17 @@ const Experience = () => {
       <h1 className="text-white font-semibold text-center text-6xl pt-[35px]">
         EXPERIENCE
       </h1>
-      <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-[#c4a0cb] to-[#6d0f7d] text-1xl ">
+      <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-[#c4a0cb] to-[#6d0f7d] text-xl ">
         EXPLORE NOW
       </p>
-      <div className="container mx-auto 2xl mb-8 max-w-[800px] pl-4 pr-4">
+      <div className="container mx-auto mb-8 max-w-[800px] pl-4 pr-4">
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a
               href="https://www.visionect.com/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xt"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xl"
             >
               Visionect{' '}
             </a>
@@ -50,14 +50,14 @@ const Experience = () => {
           </div>
         </div>
       </div>
-      <div className="container mx-auto 2xl mb-8 max-w-[800px] pl-4 pr-4">
+      <div className="container mx-auto mb-8 max-w-[800px] pl-4 pr-4">
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a
               href="https://www.agiledrop.com/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xt"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xl"
             >
               Agiledrop{' '}
             </a>
@@ -88,7 +88,7 @@ const Experience = () => {
           </div>
         </div>
       </div>
-      <div className="container mx-auto 2xl mb-8 max-w-[800px] pl-4 pr-4">
+      <div className="container mx-auto mb-8 max-w-[800px] pl-4 pr-4">
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a
@@ -130,7 +130,7 @@ const Experience = () => {
           </div>
         </div>
       </div>
-      <div className="container mx-auto 2xl mb-8 max-w-[800px] pl-4 pr-4">
+      <div className="container mx-auto mb-8 max-w-[800px] pl-4 pr-4">
         <div className="flex flex-col justify-between pt-5">
           <p className="text-gray-300">
             <a

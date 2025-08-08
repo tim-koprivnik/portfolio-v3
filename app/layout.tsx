@@ -21,7 +21,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inconsolataFont.className} bg-[#111] overflow-y-scroll overflow-x-hidden`}
+        suppressHydrationWarning={true} // TODO: fix issue properly and then remove this
+        className={`${inconsolataFont.className} bg-[#111] text-white overflow-y-scroll overflow-x-hidden`}
       >
         <Background />
         <Navbar />

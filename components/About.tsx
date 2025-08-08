@@ -5,11 +5,11 @@ const About = () => {
     <section
       id="about"
       className="flex flex-col items-center justify-center h-full relative overflow-hidden pt-[35px]"
-      style={{ transform: 'scale(0.9' }}
+      style={{ transform: 'scale(0.9)' }}
     >
       <div className="flex flex-col justify-around flex-wrap items-center max-w-[850px]">
         <h1 className="text-white font-semibold text-6xl">ABOUT ME</h1>
-        <p className="tracking-[0.5em] text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-[#c4a0cb] to-[#6d0f7d] text-1xl">
+        <p className="tracking-[0.5em] text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-[#c4a0cb] to-[#6d0f7d] text-xl">
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">

@@ -5,7 +5,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <div className="container mx-auto 2xl pt-[50px] pb-8">
+    <div className="container mx-auto pt-[50px] pb-8">
       <div className="pb-10 justify-center flex">
         {socialIcons.map((icon) => {
           return (

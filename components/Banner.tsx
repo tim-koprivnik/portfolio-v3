@@ -19,9 +19,8 @@ const Banner = () => {
           Tim Koprivnik
         </div>
         <p className="text-md text-[#c4a0cb] my-5 max-w-[600px]">
-          Front-End Engineer. Stoic Thinker. Gym Devotee. Casual Gamer. Tech &
-          Psychology Enthusiast. Advocate for Simplicity & Personal Growth. Dog
-          Lover.
+          Frontend Engineer. Stoic. Gym Devotee. Casual Gamer. Tech & Psychology
+          Enthusiast. Advocate for a Simple & Quiet Life.
         </p>
         <div className="text-md flex justify-center">
           <button

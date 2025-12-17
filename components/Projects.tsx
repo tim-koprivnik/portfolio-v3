@@ -20,9 +20,9 @@ const Projects = () => {
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/tmdb.png" height={150} width={150} alt="TMDB" />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">TMDB</p>
-              <p className="text-gray-500 text-[10px]">
+              <p className="text-gray-500 text-[11px]">
                 Web app with Next.js that allows users to search for movies and
                 TV shows.
               </p>
@@ -42,13 +42,12 @@ const Projects = () => {
               width={150}
               alt="Calculation game"
             />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">
                 Calculation Game
               </p>
-              <p className="text-gray-500 text-[10px]">
-                An interactive web app with React designed to sharpen your
-                arithmetic skills in a fun and engaging way.
+              <p className="text-gray-500 text-[11px]">
+                React app to practice and improve your arithmetic skills.
               </p>
             </div>
           </div>
@@ -66,12 +65,11 @@ const Projects = () => {
               width={150}
               alt="Trelo clone"
             />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">Taskify</p>
-              <p className="text-gray-500 text-[10px]">
-                Web app with Next.js that allows users to organize projects,
-                tasks, and workflows using a flexible and visual system based on
-                boards, lists, and cards.
+              <p className="text-gray-500 text-[11px]">
+                Next.js app for organizing projects and tasks using boards,
+                lists, and cards.
               </p>
             </div>
           </div>
@@ -89,11 +87,11 @@ const Projects = () => {
               width={150}
               alt="Fast React Pizza"
             />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">
                 Fast React Pizza
               </p>
-              <p className="text-gray-500 text-[10px]">
+              <p className="text-gray-500 text-[11px]">
                 Web app with React that allows users to order pizza.
               </p>
             </div>
@@ -107,9 +105,9 @@ const Projects = () => {
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/natours.png" height={150} width={150} alt="Natours" />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">Natours</p>
-              <p className="text-gray-500 text-[10px]">
+              <p className="text-gray-500 text-[11px]">
                 Web app with Node.js (Express) and MongoDB (Mongoose) that
                 allows users to book tours.
               </p>
@@ -129,9 +127,9 @@ const Projects = () => {
               width={150}
               alt="Monster Slayer"
             />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">Monster Slayer</p>
-              <p className="text-gray-500 text-[10px]">
+              <p className="text-gray-500 text-[11px]">
                 Simple monster slayer game with Vue.
               </p>
             </div>
@@ -150,9 +148,9 @@ const Projects = () => {
               width={150}
               alt="Todo app"
             />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">Todo</p>
-              <p className="text-gray-500 text-[10px]">
+              <p className="text-gray-500 text-[11px]">
                 Simple to-do app with Next.js.
               </p>
             </div>
@@ -166,9 +164,9 @@ const Projects = () => {
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/piggame.png" height={150} width={150} alt="PigGame" />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">Pig Game</p>
-              <p className="text-gray-500 text-[10px]">
+              <p className="text-gray-500 text-[11px]">
                 Web app with JavaScript that allows users to play a dice game.
               </p>
             </div>
@@ -182,9 +180,9 @@ const Projects = () => {
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/forkify.png" height={150} width={150} alt="Forkify" />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">Forkify</p>
-              <p className="text-gray-500 text-[10px]">
+              <p className="text-gray-500 text-[11px]">
                 Web app with JavaScript that allows users to search for recipes.
               </p>
             </div>
@@ -198,9 +196,9 @@ const Projects = () => {
         >
           <div className="flex-row flex mb-5 max-h-[100px]">
             <Image src="/budgety.png" height={150} width={150} alt="Budgety" />
-            <div className="p-3">
+            <div className="px-3">
               <p className="text-white font-semibold text-xl">Budgety</p>
-              <p className="text-gray-500 text-[10px]">
+              <p className="text-gray-500 text-[11px]">
                 Web app with JavaScript that allows users to manage their
                 monthly budget.
               </p>

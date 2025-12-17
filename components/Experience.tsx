@@ -6,7 +6,7 @@ const Experience = () => {
       <h1 className="text-white font-semibold text-center text-6xl pt-[35px]">
         EXPERIENCE
       </h1>
-      <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-[#c4a0cb] to-[#6d0f7d] text-xl ">
+      <p className="tracking-[0.5em] text-center text-transparent font-light pb-5 bg-clip-text bg-gradient-to-r from-[#c4a0cb] to-[#6d0f7d] text-xl">
         EXPLORE NOW
       </p>
       <div className="container mx-auto mb-8 max-w-[800px] pl-4 pr-4">
@@ -26,8 +26,8 @@ const Experience = () => {
             Apr 2024 - Present
           </p>
         </div>
-        <li className="text-gray-300 pt-5">
-          Developing and maintaining web and mobile app, called{' '}
+        <div className="text-gray-300 pt-5">
+          Responsible for the development and maintenance of{' '}
           <a
             href="https://getjoan.com/"
             rel="noopener noreferrer"
@@ -36,17 +36,61 @@ const Experience = () => {
           >
             Joan
           </a>
-          , that empowers companies to optimize workplace management.
-        </li>
+          , a workplace management platform used by global enterprises.
+        </div>
+        <ul>
+          {/* <li className="text-gray-300 pt-5">
+            Responsible for the development and maintenance of{' '}
+            <a
+              href="https://getjoan.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xt"
+            >
+              Joan
+            </a>
+            , a workplace management platform used by global enterprises.
+          </li> */}
+          <li className="text-gray-300 pt-5">
+            Development: Building complex UI features using React.js and
+            TypeScript.
+          </li>
+          <li className="text-gray-300 pt-5">
+            {' '}
+            Code Quality: Conducting code reviews to ensure high standards and
+            consistency.
+          </li>
+          <li className="text-gray-300 pt-5">
+            {' '}
+            Release Management: Handling production deployments and ensuring
+            smooth release cycles.{' '}
+          </li>
+          <li className="text-gray-300 pt-5">
+            {' '}
+            Internal Tools: Developed an AI-based translation tool to automate
+            localization processes.
+          </li>
+          <li className="text-gray-300 pt-5">
+            {' '}
+            Mentorship: Helping with onboarding and support for new team
+            members.
+          </li>
+        </ul>
         <div className="flex flex-wrap">
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            React
+            React.js
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            Typescript
+            TypeScript
           </div>
           <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            CSS/Sass
+            CSS
+          </div>
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Code Review
+          </div>
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Release Management
           </div>
         </div>
       </div>
@@ -67,24 +111,40 @@ const Experience = () => {
             Aug 2021 - Feb 2024
           </p>
         </div>
-        <li className="text-gray-300 pt-5">
-          Designed, developed, and maintained various websites and web apps.
-        </li>
+        <ul>
+          <li className="text-gray-300 pt-5">
+            Developed various web applications for international clients using
+            Drupal, React.js and Next.js.
+          </li>
+          <li className="text-gray-300 pt-5">
+            Focused on building reusable components and pixel-perfect
+            implementation.
+          </li>
+          <li className="text-gray-300 pt-5">
+            Worked in an agile environment with tight deadlines.
+          </li>
+        </ul>
         <div className="flex flex-wrap">
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            PHP/Drupal
+            React.js
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            React/Next.js
+            Next.js
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            Typescript
+            TypeScript
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             JavaScript
           </div>
-          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            CSS/Sass
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            CSS
+          </div>
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Drupal
+          </div>
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Docker
           </div>
         </div>
       </div>
@@ -95,7 +155,7 @@ const Experience = () => {
               href="https://interstellarsupport.com/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xl"
             >
               Interstellar Support{' '}
             </a>
@@ -105,19 +165,24 @@ const Experience = () => {
             Apr 2021 - Aug 2021
           </p>
         </div>
-        <li className="text-gray-300 pt-5">
-          Designed, developed, and maintained various websites and e-commerce
-          stores.
-        </li>
-        <li className="text-gray-300 pt-5">
-          Provided technical support to clients.
-        </li>
+        <ul>
+          <li className="text-gray-300 pt-5">
+            Provided technical support and development for Shopify/WooCommerce
+            stores.
+          </li>
+          <li className="text-gray-300 pt-5">
+            Resolved complex technical issues to improve site stability.
+          </li>
+        </ul>
         <div className="flex flex-wrap">
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            PHP/WordPress
+            WordPress
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            Javascript
+            PHP
+          </div>
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            JavaScript
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             MySQL
@@ -137,7 +202,7 @@ const Experience = () => {
               href="https://about.citiesapps.com/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xl"
             >
               citiesapps{' '}
             </a>
@@ -147,28 +212,35 @@ const Experience = () => {
             Nov 2020 - Apr 2021
           </p>
         </div>
-        <li className="text-gray-300 pt-5">
-          Developed and maintained various websites for primary schools in
-          Austria.
-        </li>
-        <li className="text-gray-300 pt-5">
-          Developed WordPress plugin for seamless integration with internal app.
-        </li>
+        <ul>
+          <li className="text-gray-300 pt-5">
+            Developed a custom WordPress plugin for mobile app synchronization.
+          </li>
+          <li className="text-gray-300 pt-5">
+            Built and maintained websites for the Austrian education sector.
+          </li>
+        </ul>
         <div className="flex flex-wrap">
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            PHP/WordPress
+            WordPress
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            Javascript
+            PHP
           </div>
           <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            Frontity/React
+            React.js
+          </div>
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            JavaScript
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             MySQL
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS
+          </div>
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+            Adobe XD
           </div>
         </div>
       </div>
@@ -179,7 +251,7 @@ const Experience = () => {
               href="https://www.adverta.si/"
               rel="noopener noreferrer"
               target="_blank"
-              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer"
+              className="font-semibold text-[#c4a0cb] hover:text-[#6d0f7d] cursor-pointer text-xl"
             >
               Adverta{' '}
             </a>
@@ -189,22 +261,20 @@ const Experience = () => {
             Aug 2019 - Oct 2020
           </p>
         </div>
-        <li className="text-gray-300 pt-5">
-          Designed and developed web ads for various campaigns, optimized for
-          engagement and conversion.
-        </li>
-        <li className="text-gray-300 pt-5">
-          Contributed to the enhancement and maintenance of internal CMS.
-        </li>
+        <ul>
+          <li className="text-gray-300 pt-5">
+            Developed HTML5 web advertisements and maintained internal CMS.
+          </li>
+        </ul>
         <div className="flex flex-wrap">
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            Javascript
+            JavaScript
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             PHP
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
-            HTML
+            HTML5
           </div>
           <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
             CSS

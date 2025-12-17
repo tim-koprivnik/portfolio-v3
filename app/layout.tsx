@@ -1,11 +1,10 @@
 import type { Metadata } from 'next';
-import { Inter, Inconsolata } from 'next/font/google';
+import { Sora } from 'next/font/google';
 import './globals.css';
 import Navbar from '@/components/Navbar';
 import Background from '@/components/Background';
 
-const interFont = Inter({ subsets: ['latin'] });
-const inconsolataFont = Inconsolata({ subsets: ['latin'] });
+const soraFont = Sora({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'TK',
@@ -22,7 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         suppressHydrationWarning={true} // TODO: fix issue properly and then remove this
-        className={`${inconsolataFont.className} bg-[#111] text-white overflow-y-scroll overflow-x-hidden`}
+        className={`${soraFont.className} bg-[#111] text-white overflow-y-scroll overflow-x-hidden`}
       >
         <Background />
         <Navbar />

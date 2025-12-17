@@ -56,6 +56,10 @@ const Experience = () => {
             TypeScript.
           </li>
           <li className="text-gray-300 pt-5">
+            Collaboration: Working closely with Product, Design, and Backend
+            teams to define requirements and API specifications.
+          </li>
+          <li className="text-gray-300 pt-5">
             {' '}
             Code Quality: Conducting code reviews to ensure high standards and
             consistency.
@@ -77,19 +81,22 @@ const Experience = () => {
           </li>
         </ul>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             React.js
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             TypeScript
           </div>
-          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             CSS
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
+            Docker
+          </div>
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             Code Review
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             Release Management
           </div>
         </div>
@@ -125,25 +132,25 @@ const Experience = () => {
           </li>
         </ul>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             React.js
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             Next.js
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             TypeScript
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             JavaScript
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             CSS
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             Drupal
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             Docker
           </div>
         </div>
@@ -175,22 +182,22 @@ const Experience = () => {
           </li>
         </ul>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             WordPress
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             PHP
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             JavaScript
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             MySQL
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             CSS
           </div>
-          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             Figma
           </div>
         </div>
@@ -221,25 +228,25 @@ const Experience = () => {
           </li>
         </ul>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             WordPress
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             PHP
           </div>
-          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             React.js
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             JavaScript
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             MySQL
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             CSS
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             Adobe XD
           </div>
         </div>
@@ -267,19 +274,19 @@ const Experience = () => {
           </li>
         </ul>
         <div className="flex flex-wrap">
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             JavaScript
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             PHP
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             HTML5
           </div>
-          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             CSS
           </div>
-          <div className="bg-transparent mt-5 text-white py-2 px-5 border border-[#2E2E2E] w-max">
+          <div className="bg-transparent mt-5 mr-2 text-white py-2 px-5 border border-[#2E2E2E] w-max text-[12px]">
             Adobe Photoshop
           </div>
         </div>

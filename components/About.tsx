@@ -12,14 +12,13 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center">
-          I build and improve web and mobile apps. I like owning a feature from
-          planning to delivery. I like work that is simple and finished.
+          I build web and mobile apps. I like owning a feature from planning to
+          delivery, and I care about shipping things that are actually useful.
           <br />
           <br />
           I studied philosophy and landed somewhere between pessimism and irony:
           nothing matters much in the grand scheme, and the fact that it
-          doesn&apos;t matter doesn&apos;t matter either. So I try to do good
-          work, stay curious, and not take myself too seriously.
+          doesn&apos;t matter doesn&apos;t matter either.
           <br />
           <br />
           Outside work: the gym, sports, books, series, podcasts, the occasional

@@ -12,8 +12,8 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center">
-          I build web and mobile apps. I like owning a feature from planning to
-          delivery, and I care about shipping things that are actually useful.
+          I like to build software that automates processes and saves time,
+          because, in all honesty, I&apos;m lazy at heart.
           <br />
           <br />
           I studied philosophy and landed somewhere between pessimism and irony:
